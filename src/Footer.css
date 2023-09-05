@@ -1,0 +1,13 @@
+footer{
+    background-color: black;
+    color: aliceblue;
+    padding: 20px;
+    text-align: center;
+    height: 80px;
+    margin-top: 0px;
+    text-shadow: black;
+  }
+  footer h4{
+    margin-top: 0px;
+    font-size: 22px;
+  }
